@@ -2,7 +2,7 @@
   "name": "native-vue-demo",
   "version": "1.0.0",
   "description": "A native application built with NativeScript-Vue",
-  "author": "chloe <cholechan@eftpay.com.tw>",
+  "author": "chloe",
   "license": "MIT",
   "nativescript": {
     "id": "org.nativescript.application",
